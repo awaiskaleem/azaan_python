@@ -1,4 +1,4 @@
-# azaan_python
+# Local Azaan Program
 
 The short script azaan.py uses MuslimPro as source of timings. I developed this for Stockholm city for which city id is 2673730. 
 To run the code, simply run following command.
