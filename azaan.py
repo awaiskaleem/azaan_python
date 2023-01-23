@@ -58,8 +58,10 @@ def todays_scheduler():
         now = datetime.datetime.now()
         if now.strftime('%H:%M') == '01:00':
             prayer_dict = get_prayer_times()
-        # prayer_dict['Sunrise'] = datetime.datetime.now().strftime('%H:%M')
+        # prayer_dict['Maghrib'] = datetime.datetime.now().strftime('%H:%M')
         if now.strftime('%H:%M') in [*prayer_dict.values()]:
-            play_azaan(list(prayer_dict.keys())[list(prayer_dict.values()).index(now.strftime('%H:%M'))])
+            play_audio(list(prayer_dict.keys())[list(prayer_dict.values()).index(now.strftime('%H:%M'))])
+        if (now + datetime.timedelta(hours=0, minutes=10)).strftime('%H:%M') in [*prayer_dict.values()]:
+            play_audio('startup')
 
 todays_scheduler()
