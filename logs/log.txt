@@ -1,2 +1,20 @@
 
 Initiating startup time... 2023-01-23 16:03:57.968240
+Initiating startup time... 2023-01-23 16:08:08.720072
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}
+Initiating startup time... 2023-01-23 16:08:15.287338
+Initiating startup time... 2023-01-23 16:08:21.294524
+Initiating startup time... 2023-01-23 16:08:27.300759
+Initiating startup time... 2023-01-23 16:08:33.308157
+Initiating startup time... 2023-01-23 16:08:42.912190
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}
+Initiating qadha time... 2023-01-23 16:08:49.524144
+Initiating qadha time... 2023-01-23 16:08:55.531400
+Initiating qadha time... 2023-01-23 16:09:01.537562
+Initiating qadha time... 2023-01-23 16:09:07.544674
+Initiating qadha time... 2023-01-23 16:09:13.554120
+Initiating qadha time... 2023-01-23 16:09:19.561149
+Initiating qadha time... 2023-01-23 16:09:25.564621
+Initiating qadha time... 2023-01-23 16:09:31.578112
+Initiating startup time... 2023-01-23 16:09:40.444169
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}

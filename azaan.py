@@ -10,6 +10,7 @@ normal_file = '/home/awais/Desktop/azaan_python/assets/normal.mp3'
 morning_file = '/home/awais/Desktop/azaan_python/assets/morning.mp3'
 log_file = '/home/awais/Desktop/azaan_python/logs/log.txt'
 startup_file = '/home/awais/Desktop/azaan_python/assets/startup.mp3'
+qadha_file = '/home/awais/Desktop/azaan_python/assets/qadha.mp3'
 
 sys.stdout = open(log_file,'a+')
 
@@ -28,6 +29,8 @@ def play_audio(audio_name):
         mixer.music.load(startup_file)
     elif audio_name == 'Fajr':
         mixer.music.load(fajr_file)
+    elif audio_name == 'qadha':
+        mixer.music.load(qadha_file)
     elif audio_name == 'Sunrise':
         mixer.music.load(morning_file)
     else:
@@ -58,10 +61,10 @@ def todays_scheduler():
         now = datetime.datetime.now()
         if now.strftime('%H:%M') == '01:00':
             prayer_dict = get_prayer_times()
-        # prayer_dict['Maghrib'] = datetime.datetime.now().strftime('%H:%M')
+        # prayer_dict['Maghrib'] = now.strftime('%H:%M')
         if now.strftime('%H:%M') in [*prayer_dict.values()]:
             play_audio(list(prayer_dict.keys())[list(prayer_dict.values()).index(now.strftime('%H:%M'))])
         if (now + datetime.timedelta(hours=0, minutes=10)).strftime('%H:%M') in [*prayer_dict.values()]:
-            play_audio('startup')
+            play_audio('qadha')
 
 todays_scheduler()
