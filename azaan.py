@@ -4,7 +4,12 @@ import datetime
 import time
 import sys
 
-city_id = sys.argv[1]
+city_id = 2673730
+fajr_file = '/home/awais/Desktop/azaan_python/fajr.mp3'
+normal_file = '/home/awais/Desktop/azaan_python/normal.mp3'
+log_file = '/home/awais/Desktop/azaan_python/log.txt'
+
+sys.stdout = open(log_file,'a+')
 
 def extract_array(input_string, sub_start, sub_end):
     sub_start_idx = [i for i in range(len(input_string)) if input_string.startswith(sub_start, i)]
@@ -14,7 +19,7 @@ def extract_array(input_string, sub_start, sub_end):
     return [input_string[sub_start_idx[idx]+len(sub_start):sub_end_idx[idx]] for idx in range(len(sub_start_idx))]
 
 def play_azaan(prayer_name):
-    print(f"Initiating prayers call for {prayer_name} time...")
+    print(f"Initiating prayers call for {prayer_name} time... {datetime.datetime.now()}", flush = True)
     mixer.init()
     if prayer_name == 'Fajr':
         mixer.music.load('Fajr.mp3')
@@ -42,7 +47,7 @@ def todays_scheduler():
         if now.strftime('%H:%M') == '01:00':
             prayer_dict = get_prayer_times()
         # prayer_dict['Asr'] = '20:40'
-        prayer_dict['Asr'] = datetime.datetime.now().strftime('%H:%M')
+        prayer_dict['Fjr'] = datetime.datetime.now().strftime('%H:%M')
         # get_prayer_times(prayer_dict)
         if now.strftime('%H:%M') in [*prayer_dict.values()]:
             play_azaan(list(prayer_dict.keys())[list(prayer_dict.values()).index(now.strftime('%H:%M'))])
