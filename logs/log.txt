@@ -1,1 +1,4 @@
 
+Initiating Sunrise time... 2023-01-23 14:28:34.444189
+Initiating startup time... 2023-01-23 14:29:21.062789
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}

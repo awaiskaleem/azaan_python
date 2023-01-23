@@ -9,6 +9,7 @@ fajr_file = '/home/awais/Desktop/azaan_python/assets/fajr.mp3'
 normal_file = '/home/awais/Desktop/azaan_python/assets/normal.mp3'
 morning_file = '/home/awais/Desktop/azaan_python/assets/morning.mp3'
 log_file = '/home/awais/Desktop/azaan_python/logs/log.txt'
+startup_file = '/home/awais/Desktop/azaan_python/assets/startup.mp3'
 
 sys.stdout = open(log_file,'a+')
 
@@ -19,24 +20,29 @@ def extract_array(input_string, sub_start, sub_end):
         sub_end_idx = sub_end_idx[1:]
     return [input_string[sub_start_idx[idx]+len(sub_start):sub_end_idx[idx]] for idx in range(len(sub_start_idx))]
 
-def play_azaan(prayer_name):
-    print(f"Initiating {prayer_name} time... {datetime.datetime.now()}", flush = True)
+def play_audio(audio_name):
+    print(f"Initiating {audio_name} time... {datetime.datetime.now()}", flush = True)
     mixer.init()
     mixer.music.set_volume(1.0)
-    if prayer_name == 'Fajr':
+    if audio_name == 'startup':
+        mixer.music.load(startup_file)
+    elif audio_name == 'Fajr':
         mixer.music.load(fajr_file)
-    elif prayer_name == 'Sunrise':
+    elif audio_name == 'Sunrise':
         mixer.music.load(morning_file)
     else:
         mixer.music.load(normal_file)
     mixer.music.play()
-    while mixer.music.get_busy():  # wait for azaan to finish playing
+    while mixer.music.get_busy():  # wait for audio to finish playing
         time.sleep(1)
 
 def get_prayer_times():
     result = {}
     url = f"https://www.muslimpro.com/muslimprowidget.js?cityid={city_id}&Convention=Stockholm"
-    response = requests.get(url).content.decode('ascii')
+    try:
+        response = requests.get(url).content.decode('ascii')
+    except Exception as e:
+        print(e, flush=True)
 
     prayer_names = extract_array(response, "innerHTML=\'<td>", "</td><td>")
     prayer_times = extract_array(response, "</td><td>", "</td>\'")
@@ -46,14 +52,13 @@ def get_prayer_times():
     return result
 
 def todays_scheduler():
+    play_audio('startup')
     prayer_dict = get_prayer_times()
     while True:
         now = datetime.datetime.now()
         if now.strftime('%H:%M') == '01:00':
             prayer_dict = get_prayer_times()
-        # prayer_dict['Asr'] = '20:40'
-        prayer_dict['Sunrise'] = datetime.datetime.now().strftime('%H:%M')
-        # get_prayer_times(prayer_dict)
+        # prayer_dict['Sunrise'] = datetime.datetime.now().strftime('%H:%M')
         if now.strftime('%H:%M') in [*prayer_dict.values()]:
             play_azaan(list(prayer_dict.keys())[list(prayer_dict.values()).index(now.strftime('%H:%M'))])
 
