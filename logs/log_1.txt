@@ -1,0 +1,369 @@
+
+Initiating startup time... 2023-01-23 16:03:57.968240
+Initiating startup time... 2023-01-23 16:08:08.720072
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}
+Initiating startup time... 2023-01-23 16:08:15.287338
+Initiating startup time... 2023-01-23 16:08:21.294524
+Initiating startup time... 2023-01-23 16:08:27.300759
+Initiating startup time... 2023-01-23 16:08:33.308157
+Initiating startup time... 2023-01-23 16:08:42.912190
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}
+Initiating qadha time... 2023-01-23 16:08:49.524144
+Initiating qadha time... 2023-01-23 16:08:55.531400
+Initiating qadha time... 2023-01-23 16:09:01.537562
+Initiating qadha time... 2023-01-23 16:09:07.544674
+Initiating qadha time... 2023-01-23 16:09:13.554120
+Initiating qadha time... 2023-01-23 16:09:19.561149
+Initiating qadha time... 2023-01-23 16:09:25.564621
+Initiating qadha time... 2023-01-23 16:09:31.578112
+Initiating startup time... 2023-01-23 16:09:40.444169
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}
+Initiating startup time... 2023-01-23 16:07:26.476363
+{'Fajr': '05:49', 'Sunrise': '08:11', 'Dhuhr': '12:04', 'Asr': '13:26', 'Maghrib': '15:48', 'Isha&#39;a': '17:54'}
+Initiating qadha time... 2023-01-23 17:44:00.000153
+Initiating qadha time... 2023-01-23 17:44:06.007456
+Initiating qadha time... 2023-01-23 17:44:12.020564
+Initiating qadha time... 2023-01-23 17:44:18.027875
+Initiating qadha time... 2023-01-23 17:44:24.035272
+Initiating qadha time... 2023-01-23 17:44:30.042616
+Initiating qadha time... 2023-01-23 17:44:36.051619
+Initiating qadha time... 2023-01-23 17:44:42.058941
+Initiating qadha time... 2023-01-23 17:44:48.066303
+Initiating qadha time... 2023-01-23 17:44:54.073598
+Initiating Isha&#39;a time... 2023-01-23 17:54:00.000128
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+{'Fajr': '05:48', 'Sunrise': '08:09', 'Dhuhr': '12:05', 'Asr': '13:28', 'Maghrib': '15:50', 'Isha&#39;a': '17:56'}
+Initiating qadha time... 2023-01-24 05:38:00.000171
+Initiating qadha time... 2023-01-24 05:38:06.005071
+Initiating qadha time... 2023-01-24 05:38:12.018320
+Initiating qadha time... 2023-01-24 05:38:18.025635
+Initiating qadha time... 2023-01-24 05:38:24.032986
+Initiating qadha time... 2023-01-24 05:38:30.040338
+Initiating qadha time... 2023-01-24 05:38:36.047736
+Initiating qadha time... 2023-01-24 05:38:42.055191
+Initiating qadha time... 2023-01-24 05:38:48.062528
+Initiating qadha time... 2023-01-24 05:38:54.069867
+Initiating Fajr time... 2023-01-24 05:48:00.000162
+Initiating qadha time... 2023-01-24 07:59:00.000114
+Initiating qadha time... 2023-01-24 07:59:06.012620
+Initiating qadha time... 2023-01-24 07:59:12.019948
+Initiating qadha time... 2023-01-24 07:59:18.027235
+Initiating qadha time... 2023-01-24 07:59:24.034597
+Initiating qadha time... 2023-01-24 07:59:30.043428
+Initiating qadha time... 2023-01-24 07:59:36.050754
+Initiating qadha time... 2023-01-24 07:59:42.058081
+Initiating qadha time... 2023-01-24 07:59:48.065405
+Initiating qadha time... 2023-01-24 07:59:54.072187
+Initiating Sunrise time... 2023-01-24 08:09:00.000126
+Initiating qadha time... 2023-01-24 11:55:00.000183
+Initiating qadha time... 2023-01-24 11:55:06.007191
+Initiating qadha time... 2023-01-24 11:55:12.011353
+Initiating qadha time... 2023-01-24 11:55:18.015668
+Initiating qadha time... 2023-01-24 11:55:24.020445
+Initiating qadha time... 2023-01-24 11:55:30.024185
+Initiating qadha time... 2023-01-24 11:55:36.028317
+Initiating qadha time... 2023-01-24 11:55:42.035550
+Initiating qadha time... 2023-01-24 11:55:48.044256
+Initiating qadha time... 2023-01-24 11:55:54.048203
+Initiating Dhuhr time... 2023-01-24 12:05:00.000142
+Initiating qadha time... 2023-01-24 13:18:00.000137
+Initiating qadha time... 2023-01-24 13:18:06.007285
+Initiating qadha time... 2023-01-24 13:18:12.014567
+Initiating qadha time... 2023-01-24 13:18:18.022044
+Initiating qadha time... 2023-01-24 13:18:24.029334
+Initiating qadha time... 2023-01-24 13:18:30.036645
+Initiating qadha time... 2023-01-24 13:18:36.043920
+Initiating qadha time... 2023-01-24 13:18:42.056186
+Initiating qadha time... 2023-01-24 13:18:48.067771
+Initiating qadha time... 2023-01-24 13:18:54.075244
+Initiating Asr time... 2023-01-24 13:28:00.000128
+Initiating qadha time... 2023-01-24 15:40:00.000148
+Initiating qadha time... 2023-01-24 15:40:06.007802
+Initiating qadha time... 2023-01-24 15:40:12.014881
+Initiating qadha time... 2023-01-24 15:40:18.025884
+Initiating qadha time... 2023-01-24 15:40:24.033285
+Initiating qadha time... 2023-01-24 15:40:30.039289
+Initiating qadha time... 2023-01-24 15:40:36.045287
+Initiating qadha time... 2023-01-24 15:40:42.052710
+Initiating qadha time... 2023-01-24 15:40:48.059711
+Initiating qadha time... 2023-01-24 15:40:54.067126
+Initiating Maghrib time... 2023-01-24 15:50:00.000132
+Initiating qadha time... 2023-01-24 17:46:00.000098
+Initiating qadha time... 2023-01-24 17:46:06.008756
+Initiating qadha time... 2023-01-24 17:46:12.018277
+Initiating qadha time... 2023-01-24 17:46:18.022845
+Initiating qadha time... 2023-01-24 17:46:24.028683
+Initiating qadha time... 2023-01-24 17:46:30.038164
+Initiating qadha time... 2023-01-24 17:46:36.045521
+Initiating qadha time... 2023-01-24 17:46:42.050958
+Initiating qadha time... 2023-01-24 17:46:48.058032
+Initiating qadha time... 2023-01-24 17:46:54.065421
+Initiating Isha&#39;a time... 2023-01-24 17:56:00.000181
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+Initiating qadha time... 2023-01-25 05:37:00.000117
+Initiating qadha time... 2023-01-25 05:37:06.007423
+Initiating qadha time... 2023-01-25 05:37:12.014870
+Initiating qadha time... 2023-01-25 05:37:18.021589
+Initiating qadha time... 2023-01-25 05:37:24.027147
+Initiating qadha time... 2023-01-25 05:37:30.034088
+Initiating qadha time... 2023-01-25 05:37:36.041494
+Initiating qadha time... 2023-01-25 05:37:42.048899
+Initiating qadha time... 2023-01-25 05:37:48.055934
+Initiating qadha time... 2023-01-25 05:37:54.060892
+Initiating Fajr time... 2023-01-25 05:47:00.000122
+Initiating qadha time... 2023-01-25 07:57:00.000188
+Initiating qadha time... 2023-01-25 07:57:06.007422
+Initiating qadha time... 2023-01-25 07:57:12.013206
+Initiating qadha time... 2023-01-25 07:57:18.020630
+Initiating qadha time... 2023-01-25 07:57:24.028125
+Initiating qadha time... 2023-01-25 07:57:30.035576
+Initiating qadha time... 2023-01-25 07:57:36.040900
+Initiating qadha time... 2023-01-25 07:57:42.044529
+Initiating qadha time... 2023-01-25 07:57:48.052023
+Initiating qadha time... 2023-01-25 07:57:54.059425
+Initiating Sunrise time... 2023-01-25 08:07:00.000176
+Initiating startup time... 2023-01-25 08:17:23.610462
+HTTPSConnectionPool(host='www.muslimpro.com', port=443): Max retries exceeded with url: /muslimprowidget.js?cityid=2673730&Convention=Stockholm (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x73016310>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Initiating startup time... 2023-01-25 11:17:28.158928
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+Initiating Maghrib time... 2023-01-25 12:26:46.371895
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
+{'Fajr': '05:47', 'Sunrise': '08:07', 'Dhuhr': '12:05', 'Asr': '13:29', 'Maghrib': '15:53', 'Isha&#39;a': '17:57'}
