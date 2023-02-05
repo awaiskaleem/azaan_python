@@ -11,6 +11,8 @@ name = "piwheels"
 [packages]
 pygame = {version="2.1.2", index="piwheels"}
 requests = {version="2.28.2", index="pypi"}
+pyyaml = "==6.0"
+envyaml = "*"
 
 [dev-packages]
 
