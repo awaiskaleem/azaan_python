@@ -49,4 +49,4 @@ class Utils:
         prayer_times = self.extract_array(response, "</td><td>", "</td>\'")
         for id in range(0,len(prayer_names)):
             self.prayer_dict[prayer_names[id]] = prayer_times[id]
-        print(self.prayer_dict)
+        logger.info(f"Extracted Prayer Times: {self.prayer_dict}")

@@ -20,7 +20,7 @@ def todays_scheduler():
     while True:
         now = datetime.datetime.now()
         
-        ut.prayer_dict['Fajr'] = now.strftime('%H:%M')
+        # ut.prayer_dict['Fajr'] = now.strftime('%H:%M')
         
         if now.strftime('%H:%M') == '01:00':
             ut.get_prayer_times()
