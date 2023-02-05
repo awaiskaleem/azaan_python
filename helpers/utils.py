@@ -3,12 +3,12 @@ from pygame import mixer
 import datetime
 import time
 import sys
+from helpers.logger import logger
 
 class Utils:
     def __init__(self, env):
         self.env = env
-        self.MUSLIM_PRO_URL = f"https://www.muslimpro.com/muslimprowidget.js?cityid={self.env['city_id']}&Convention=Stockholm"
-        # sys.stdout = open(env['file_system'].get('log_file'),'a+')
+        self.MUSLIM_PRO_URL = f"http://www.muslimpro.com/muslimprowidget.js?cityid={self.env['city_id']}&Convention=Stockholm&timeformat=24"
         self.prayer_dict = {}
 
     def extract_array(self, input_string, sub_start, sub_end):
@@ -19,7 +19,7 @@ class Utils:
         return [input_string[sub_start_idx[idx]+len(sub_start):sub_end_idx[idx]] for idx in range(len(sub_start_idx))]
 
     def play_audio(self, audio_name, loop=1):
-        print("Playing an audio now")
+        logger.info("Playing an audio now")
         mixer.init()
         mixer.music.set_volume(1.0)
         if audio_name in ['startup', 'hour check']:
@@ -39,10 +39,10 @@ class Utils:
 
     def get_prayer_times(self):
         try:
-            print("Fetching prayer times")
+            logger.info("Fetching prayer times")
             response = requests.get(self.MUSLIM_PRO_URL).content.decode('ascii')
         except Exception as e:
-            print(f"Fetching prayers failed with error : {e}")
+            logger.error(f"Fetching prayers failed with error : {e}")
             pass
 
         prayer_names = self.extract_array(response, "innerHTML=\'<td>", "</td><td>")

@@ -1,9 +1,1 @@
-pygame 1.9.6
-Hello from the pygame community. https://www.pygame.org/contribute.html
-Initiating startup time... 2023-02-05 07:20:28.547746
-Playing an audio now
-Fetching prayer times
-{'Fajr': '05:27 AM', 'Sunrise': '07:47 AM', 'Dhuhr': '12:02 PM', 'Asr': '01:47 PM', 'Maghrib': '04:16 PM', 'Isha&#39;a': '06:28 PM'}
-07:20 AM in [dict_values(['05:27 AM', '07:47 AM', '12:02 PM', '01:47 PM', '07:20 AM', '06:28 PM'])] gvghv
-Initiating Maghrib time... 2023-02-05 07:20:35.103828
-Playing an audio now
+
