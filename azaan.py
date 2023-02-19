@@ -22,10 +22,9 @@ def todays_scheduler():
         
         # ut.prayer_dict['Fajr'] = now.strftime('%H:%M')
         
-        if now.strftime('%H:%M') == '01:00':
+        if now.strftime('%H:%M') in ['00:01', '01:00', '02:00', '12:00']:
             ut.get_prayer_times()
             time.sleep(120)
-            logger.info(f"New prayer time fetching done...")
             
         if now.strftime('%H:%M') in ut.prayer_dict.values():
             current_audio = list(ut.prayer_dict.keys())[list(ut.prayer_dict.values()).index(now.strftime('%H:%M'))]
@@ -38,8 +37,10 @@ def todays_scheduler():
             ut.play_audio(current_audio, loop=10)
             
         if now.strftime('%M') == '00':
-            ut.play_audio('hour_check')
-            logger.info(f"Hour check now.strftime('%H %M')")
+            logger.info(f"Hour check {now.strftime('%H %M')}")
+            ut.play_audio('hour-clock')
+            num_bells = int(now.strftime('%H %M')[0:2]) if int(now.strftime('%H %M')[0:2])<13 else int(now.strftime('%H %M')[0:2])-12
+            ut.play_audio('hour-bell', loop = num_bells)
             time.sleep(60)
 
         time.sleep(15)
