@@ -22,7 +22,7 @@ class Utils:
         logger.info("Playing an audio now")
         mixer.init()
         mixer.music.set_volume(1.0)
-        if audio_name in ['startup', 'hour check']:
+        if audio_name in ['startup', 'hour_check']:
             mixer.music.load(self.env['file_system'].get('startup_file'))
         elif audio_name == 'Fajr':
             mixer.music.load(self.env['file_system'].get('fajr_file'))
