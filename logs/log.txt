@@ -1,168 +1,20 @@
-2023-02-19 21:59:28:550 azaanLogger INFO Initiating startup time...
-2023-02-19 21:59:28:551 azaanLogger INFO Playing an audio now
-2023-02-19 21:59:34:620 azaanLogger INFO Fetching prayer times
-2023-02-19 21:59:34:640 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 21:59:34:871 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 21:59:34:882 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 21:59:35:294 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 21:59:35:326 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 21:59:35:327 azaanLogger INFO Initiating Fajr time...
-2023-02-19 21:59:35:327 azaanLogger INFO Playing an audio now
-22:00:10:564 azaanLogger INFO Playing an audio now
-22:00:16:576 azaanLogger INFO Hour check now.strftime('%H %M')
-2023-02-19 22:10:04:790 azaanLogger INFO Initiating startup time...
-2023-02-19 22:10:04:791 azaanLogger INFO Playing an audio now
-2023-02-19 22:10:17:477 azaanLogger INFO Initiating startup time...
-2023-02-19 22:10:17:478 azaanLogger INFO Playing an audio now
-2023-02-19 22:10:20:500 azaanLogger INFO Fetching prayer times
-2023-02-19 22:10:20:517 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:10:20:783 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:10:20:796 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:10:21:198 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:10:21:231 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:10:21:232 azaanLogger INFO Initiating Fajr time...
-2023-02-19 22:10:21:232 azaanLogger INFO Playing an audio now
-2023-02-19 22:19:31:715 azaanLogger INFO Initiating startup time...
-2023-02-19 22:19:31:716 azaanLogger INFO Playing an audio now
-2023-02-19 22:20:48:367 azaanLogger INFO Initiating startup time...
-2023-02-19 22:20:48:368 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:22:02:156 azaanLogger INFO Initiating startup time...
-2023-02-19 22:22:02:157 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:22:08:184 azaanLogger INFO Fetching prayer times
-2023-02-19 22:22:08:204 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:22:08:855 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:22:08:869 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:22:09:309 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:22:09:380 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:22:09:381 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:22:48:444 azaanLogger INFO Initiating startup time...
-2023-02-19 22:22:48:446 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:22:54:471 azaanLogger INFO Fetching prayer times
-2023-02-19 22:22:54:489 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:22:54:738 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:22:54:751 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:22:55:220 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:22:55:252 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:22:55:253 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:23:59:488 azaanLogger INFO Initiating startup time...
-2023-02-19 22:23:59:490 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:24:05:515 azaanLogger INFO Fetching prayer times
-2023-02-19 22:24:05:535 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:24:05:818 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:24:05:830 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:24:06:368 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:24:06:401 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:24:06:402 azaanLogger INFO 22
-2023-02-19 22:24:06:402 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:25:18:712 azaanLogger INFO Initiating startup time...
-2023-02-19 22:25:18:713 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:25:24:737 azaanLogger INFO Fetching prayer times
-2023-02-19 22:25:24:756 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:25:25:20 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:25:25:32 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:25:25:503 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:25:25:536 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:25:25:537 azaanLogger INFO 10
-2023-02-19 22:25:25:538 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:25:50:566 azaanLogger INFO Hour check 22 25
-2023-02-19 22:26:42:948 azaanLogger INFO Initiating startup time...
-2023-02-19 22:26:42:949 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:26:48:975 azaanLogger INFO Fetching prayer times
-2023-02-19 22:26:48:986 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:26:49:215 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:26:49:223 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:26:50:124 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:26:50:157 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:26:50:158 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:27:16:224 azaanLogger INFO Initiating startup time...
-2023-02-19 22:27:16:224 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:27:22:250 azaanLogger INFO Fetching prayer times
-2023-02-19 22:27:22:270 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:27:22:534 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:27:22:547 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:27:22:943 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:27:22:976 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:27:22:977 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:28:05:82 azaanLogger INFO Initiating startup time...
-2023-02-19 22:28:05:83 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:28:11:107 azaanLogger INFO Fetching prayer times
-2023-02-19 22:28:11:127 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:28:11:354 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:28:11:369 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:28:11:779 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:28:11:811 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:28:11:812 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:30:05:55 azaanLogger INFO Initiating startup time...
-2023-02-19 22:30:05:56 azaanLogger INFO Fetching prayer times
-2023-02-19 22:30:05:68 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:30:05:289 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:30:05:296 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:30:05:714 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:30:05:746 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:30:05:747 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:30:28:542 azaanLogger INFO Initiating startup time...
-2023-02-19 22:30:28:543 azaanLogger INFO Fetching prayer times
-2023-02-19 22:30:28:554 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:30:28:825 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:30:28:832 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:30:29:261 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:30:29:303 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:30:29:304 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:30:35:340 azaanLogger INFO 10
-2023-02-19 22:30:35:341 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:32:42:394 azaanLogger INFO Initiating startup time...
-2023-02-19 22:32:42:394 azaanLogger INFO Fetching prayer times
-2023-02-19 22:32:42:405 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:32:42:630 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:32:42:638 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:32:43:2 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:32:43:34 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:32:43:35 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:32:49:60 azaanLogger INFO 10
-2023-02-19 22:32:49:61 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:33:09:84 azaanLogger INFO Hour check 22 32
-2023-02-19 22:34:24:161 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:37:47:810 azaanLogger INFO Initiating startup time...
-2023-02-19 22:37:47:811 azaanLogger INFO Fetching prayer times
-2023-02-19 22:37:47:822 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:37:48:95 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:37:48:103 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:37:48:896 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:37:48:954 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:37:48:955 azaanLogger INFO Hour check 22 37
-2023-02-19 22:37:48:956 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:37:55:989 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:38:15:272 azaanLogger INFO Initiating startup time...
-2023-02-19 22:38:15:273 azaanLogger INFO Fetching prayer times
-2023-02-19 22:38:15:284 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:38:15:548 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:38:15:556 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:38:15:948 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:38:15:980 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:38:15:981 azaanLogger INFO Hour check 22 38
-2023-02-19 22:38:15:981 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:38:22:5 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:43:53:431 azaanLogger INFO Initiating startup time...
-2023-02-19 22:43:53:431 azaanLogger INFO Fetching prayer times
-2023-02-19 22:43:53:442 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:43:53:663 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:43:53:671 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:43:54:74 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:43:54:106 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:43:54:107 azaanLogger INFO Hour check 22 43
-2023-02-19 22:43:54:107 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:44:00:133 azaanLogger INFO Playing an audio now hour-bell
-2023-02-19 22:45:45:236 azaanLogger INFO Hour check 22 45
-2023-02-19 22:45:45:237 azaanLogger INFO Playing an audio now hour-clock
-2023-02-19 22:45:55:300 azaanLogger INFO Initiating startup time...
-2023-02-19 22:45:55:301 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:46:01:326 azaanLogger INFO Fetching prayer times
-2023-02-19 22:46:01:343 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
-2023-02-19 22:46:01:560 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 302 0
-2023-02-19 22:46:01:572 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
-2023-02-19 22:46:02:83 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 4138
-2023-02-19 22:46:02:116 azaanLogger INFO Extracted Prayer Times: {'Fajr': '04:57', 'Sunrise': '07:08', 'Dhuhr': '12:07', 'Asr': '14:16', 'Maghrib': '16:56', 'Isha&#39;a': '18:50'}
-2023-02-19 22:46:33:743 azaanLogger INFO Initiating startup time...
-2023-02-19 22:46:33:744 azaanLogger INFO Playing an audio now startup
-2023-02-19 22:46:39:784 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.cmuslimpro.com:80
-2023-02-19 22:46:39:877 azaanLogger ERROR Fetching prayers failed with error : HTTPConnectionPool(host='www.cmuslimpro.com', port=80): Max retries exceeded with url: /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72f793b8>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2025-04-13 20:09:06:288 azaanLogger INFO Initiating startup time...
+2025-04-13 20:09:06:290 azaanLogger INFO Playing an audio now startup
+2025-04-13 20:09:12:368 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
+2025-04-13 20:09:12:489 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 301 None
+2025-04-13 20:09:12:504 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
+2025-04-13 20:09:13:335 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 301 None
+2025-04-13 20:09:13:352 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): prayer-times.muslimpro.com:443
+2025-04-13 20:09:13:844 urllib3.connectionpool DEBUG https://prayer-times.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 None
+2025-04-13 20:09:13:925 azaanLogger INFO Extracted Prayer Times: {'Fajr': '03:28', 'Sunrise': '05:32', 'Dhuhr': '12:53', 'Asr': '16:39', 'Maghrib': '20:05', 'Isha&#39;a': '21:53'}
+2025-04-13 20:09:13:926 azaanLogger INFO Playing an audio now startup
+2025-04-13 20:10:14:942 azaanLogger INFO Initiating startup time...
+2025-04-13 20:10:14:943 azaanLogger INFO Playing an audio now startup
+2025-04-13 20:10:20:998 urllib3.connectionpool DEBUG Starting new HTTP connection (1): www.muslimpro.com:80
+2025-04-13 20:10:21:115 urllib3.connectionpool DEBUG http://www.muslimpro.com:80 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 301 None
+2025-04-13 20:10:21:127 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.muslimpro.com:443
+2025-04-13 20:10:22:225 urllib3.connectionpool DEBUG https://www.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 301 None
+2025-04-13 20:10:22:259 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): prayer-times.muslimpro.com:443
+2025-04-13 20:10:22:940 urllib3.connectionpool DEBUG https://prayer-times.muslimpro.com:443 "GET /muslimprowidget.js?cityid=2673730&Convention=Stockholm&timeformat=24 HTTP/1.1" 200 None
+2025-04-13 20:10:23:20 azaanLogger INFO Extracted Prayer Times: {'Fajr': '03:28', 'Sunrise': '05:32', 'Dhuhr': '12:53', 'Asr': '16:39', 'Maghrib': '20:05', 'Isha&#39;a': '21:53'}
+2025-04-13 20:10:23:22 azaanLogger INFO Playing an audio now startup

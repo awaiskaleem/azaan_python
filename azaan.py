@@ -38,9 +38,7 @@ def todays_scheduler():
             
         if now.strftime('%M') == '00':
             logger.info(f"Hour check {now.strftime('%H %M')}")
-            ut.play_audio('hour-clock')
-            num_bells = int(now.strftime('%H %M')[0:2]) if int(now.strftime('%H %M')[0:2])<13 else int(now.strftime('%H %M')[0:2])-12
-            ut.play_audio('hour-bell', loop = num_bells)
+            ut.play_audio('hour-bell')
             time.sleep(60)
 
         time.sleep(15)

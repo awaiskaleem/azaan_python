@@ -50,6 +50,7 @@ class Utils:
             for id in range(0,len(prayer_names)):
                 self.prayer_dict[prayer_names[id]] = prayer_times[id]
             logger.info(f"Extracted Prayer Times: {self.prayer_dict}")
+            self.play_audio('startup')
         except Exception as e:
             logger.error(f"Fetching prayers failed with error : {e}")
             pass
